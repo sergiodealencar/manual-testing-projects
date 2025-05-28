@@ -1,16 +1,15 @@
 # Manual Testing Project - Login
 
-This repository contains a QA project focused on manual testing of the login functionality of the [Conduit](https://conduit.mate.academy/) system.
+This repository contains a QA project focused on manual testing of all functionalities of the [Conduit](https://conduit.mate.academy/) website.
 
 ## Contents
 - [Test Plan](https://docs.google.com/document/d/1lUqi2MT7zgRmytRxxRUmFNiirvOLrlCMnDV-vjiXqjU/edit?usp=sharing)
-- Test Cases
+- [Decomposition](https://docs.google.com/document/d/1whncTlB0fXuSipntLCVZwpDNQN6Gr9l2ADw6UWGnSTM/edit?usp=sharing)
+- Test Cases on TestRail (XML file)
 - Bug Reports
-- Evidence
+- 
 - Regression Checklists
 
-## How to contribute
-Fork the repository and send pull requests with improvements!
 
 ## Author
 Sérgio de Alencar - [LinkedIn](https://www.linkedin.com/in/sergiodealencar)
