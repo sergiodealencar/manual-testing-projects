@@ -1,16 +1,16 @@
-# Projeto de Testes Manuais - Login
+# Manual Testing Project - Login
 
-Este repositório contém um projeto de QA focado em testes manuais na funcionalidade de login do sistema [OrangeHRM](https://opensource-demo.orangehrmlive.com).
+This repository contains a QA project focused on manual testing of the login functionality of the [OrangeHRM](https://opensource-demo.orangehrmlive.com) system.
 
-## Conteúdo
-- Plano de Testes
-- Casos de Teste
-- Relatórios de Bug
-- Evidências
-- Checklists de Regressão
+## Contents
+- Test Plan
+- Test Cases
+- Bug Reports
+- Evidence
+- Regression Checklists
 
-## Como contribuir
-Fork o repositório e envie PRs com melhorias!
+## How to contribute
+Fork the repository and send pull requests with improvements!
 
-## Autor
-Seu Nome - [LinkedIn](https://linkedin.com/in/seu-perfil)
+## Author
+Sérgio de Alencar - [LinkedIn](https://www.linkedin.com/in/sergiodealencar)
