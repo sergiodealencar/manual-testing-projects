@@ -8,7 +8,6 @@ This repository contains a QA project focused on manual testing of all functiona
 - Test Cases on TestRail (XML file)
 - Bug Reports
 - 
-- Regression Checklists
 
 
 ## Author
