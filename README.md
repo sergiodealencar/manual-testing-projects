@@ -3,7 +3,7 @@
 This repository contains a QA project focused on manual testing of the login functionality of the [OrangeHRM](https://opensource-demo.orangehrmlive.com) system.
 
 ## Contents
-- Test Plan
+- [Test Plan](https://docs.google.com/document/d/1lUqi2MT7zgRmytRxxRUmFNiirvOLrlCMnDV-vjiXqjU/edit?usp=sharing)
 - Test Cases
 - Bug Reports
 - Evidence
