@@ -13,3 +13,4 @@ This repository contains a QA project focused on manual testing of all functiona
 
 ## Author
 Sérgio de Alencar - [LinkedIn](https://www.linkedin.com/in/sergiodealencar)
+
