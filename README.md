@@ -1,6 +1,6 @@
 # Manual Testing Projects
 
-This repository is dedicated to the study, practice, and documentation of manual software testing
+This repository is dedicated to the study, practice, and documentation of manual software testing, following the whole Software Testing Life Cycle (STLC):
 
 ## Objectives
 
