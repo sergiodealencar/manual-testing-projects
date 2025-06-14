@@ -11,6 +11,9 @@ This repository contains a QA project focused on manual testing of all functiona
 - [Test Run Report (TestRail)](https://drive.google.com/file/d/1sf3rV3Aco2LYiQVjgBQstl9FQhXRw4jh/view?usp=sharing)
 
 
+- [Pet Store](https://github.com/sergiodealencar/manual-test-project/blob/main/Pet%20Store)
+
+
 ## Author
 Sérgio de Alencar - [LinkedIn](https://www.linkedin.com/in/sergiodealencar)
 
